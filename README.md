@@ -5,12 +5,12 @@
 
 ### c-programming-project
 - C programming project from an undergraduate class on digital systems
-
+<!--
 ### numerical-linear-algebra
-- Five course projects in numerical linear algebra, using Python and SciPy
-
+- Five course projects in numerical linear algebra, using Python and SciPy -->
+<!--
 ### stochastic-simulation
-- Programming projects from a class on stochastic simulation, using Python
+- Programming projects from a class on stochastic simulation, using Python -->
 
 <!--
 **jrhuebers/jrhuebers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
