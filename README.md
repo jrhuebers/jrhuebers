@@ -1,4 +1,4 @@
-## About my public repos
+## About my pinned repos
 
 ### home-credit-default-risk
 - An XGBoost and LightGBM learning project
